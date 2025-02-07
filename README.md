@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Zhenia</h1>
-<h3 align="center">Front-end developer</h3>
+<h1 align="left">Hi 👋, I'm Zhenia</h1>
+<h3 align="left">Front-end developer</h3>
 
 - 🔭 I’m currently working on freelance
 
